@@ -19,7 +19,7 @@ So I built this tool to bridge the gap — it takes your exported conversations/
 
 ## 🚀 Try it Live
 
-👉 [md-to-notion.streamlit.app](https://md-to-notion-6aitewqx32yrejp8rxltqn.streamlit.app)
+👉 [md-to-notion.streamlit.app](https://md-to-notion.streamlit.app/)
 
 No installation needed — just upload and download.
 
